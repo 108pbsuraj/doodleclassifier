@@ -1,16 +1,16 @@
 # doodle_classifier
 
-NOTE 1: Visit https://quickdraw.withgoogle.com to know more about quickdraw (and please don't compare my classifier with theirs).
+ 1: Visit https://quickdraw.withgoogle.com to know more about quickdraw (and please don't compare my classifier with theirs).
 
-NOTE 2: You may find it confusing if you're not familiar with deep learning or neural networks.
+ 2: You may find it confusing if you're not familiar with deep learning or neural networks.
 
-NOTE 3: There are only 5 dataset files to keep the size small because they are approximately 90 mb each. 
+ 3: There are only 5 dataset files to keep the size small because they are approximately 90 mb each. 
 
-NOTE 4: Extract the zip files in the quickdraw_data/numpy_bitmap folder (and not in a subfolder) before running the program.
+ 4: Extract the zip files in the quickdraw_data/numpy_bitmap folder (and not in a subfolder) before running the program.
 
-NOTE 5: You have to delete the 'doodle_classifier.h5' file in model folder and train the model again everytime you increase or decrease the number of datasets.
+ 5: You have to delete the 'doodle_classifier.h5' file in model folder and train the model again everytime you increase or decrease the number of datasets.
 
-NOTE 6: If you don't get enough accuracy, try increasing the number of epochs or the total number of training data.
+ 6: If you don't get enough accuracy, try increasing the number of epochs or the total number of training data.
 
 <h2> Data </h2>
 
